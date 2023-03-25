@@ -1,0 +1,206 @@
+2023/03/06 02:24:48 [notice] 18#18: using the "epoll" event method
+2023/03/06 02:24:48 [notice] 18#18: nginx/1.21.6
+2023/03/06 02:24:48 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2023/03/06 02:24:48 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/03/06 02:24:48 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/03/06 02:24:48 [notice] 18#18: start worker processes
+2023/03/06 02:24:48 [notice] 18#18: start worker process 19
+2023/03/06 02:24:48 [notice] 18#18: start worker process 20
+2023/03/06 02:24:48 [notice] 18#18: start worker process 21
+2023/03/06 02:24:48 [notice] 18#18: start worker process 22
+2023/03/06 02:24:48 [notice] 18#18: start worker process 23
+2023/03/06 02:24:48 [notice] 18#18: start worker process 24
+2023/03/06 02:24:48 [notice] 18#18: start worker process 25
+2023/03/06 02:24:48 [notice] 18#18: start worker process 26
+2023/03/06 03:27:06 [notice] 18#18: using the "epoll" event method
+2023/03/06 03:27:06 [notice] 18#18: nginx/1.21.6
+2023/03/06 03:27:06 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2023/03/06 03:27:06 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/03/06 03:27:06 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/03/06 03:27:06 [notice] 18#18: start worker processes
+2023/03/06 03:27:06 [notice] 18#18: start worker process 19
+2023/03/06 03:27:06 [notice] 18#18: start worker process 20
+2023/03/06 03:27:06 [notice] 18#18: start worker process 21
+2023/03/06 03:27:06 [notice] 18#18: start worker process 22
+2023/03/06 03:27:06 [notice] 18#18: start worker process 23
+2023/03/06 03:27:06 [notice] 18#18: start worker process 24
+2023/03/06 03:27:06 [notice] 18#18: start worker process 25
+2023/03/06 03:27:06 [notice] 18#18: start worker process 26
+2023/03/06 06:32:15 [notice] 18#18: using the "epoll" event method
+2023/03/06 06:32:15 [notice] 18#18: nginx/1.21.6
+2023/03/06 06:32:15 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2023/03/06 06:32:15 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/03/06 06:32:15 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/03/06 06:32:15 [notice] 18#18: start worker processes
+2023/03/06 06:32:15 [notice] 18#18: start worker process 19
+2023/03/06 06:32:15 [notice] 18#18: start worker process 20
+2023/03/06 06:32:15 [notice] 18#18: start worker process 21
+2023/03/06 06:32:15 [notice] 18#18: start worker process 22
+2023/03/06 06:32:15 [notice] 18#18: start worker process 23
+2023/03/06 06:32:15 [notice] 18#18: start worker process 24
+2023/03/06 06:32:15 [notice] 18#18: start worker process 25
+2023/03/06 06:32:15 [notice] 18#18: start worker process 26
+2023/03/07 08:38:12 [notice] 18#18: using the "epoll" event method
+2023/03/07 08:38:12 [notice] 18#18: nginx/1.21.6
+2023/03/07 08:38:12 [notice] 18#18: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2023/03/07 08:38:12 [notice] 18#18: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/03/07 08:38:12 [notice] 18#18: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/03/07 08:38:12 [notice] 18#18: start worker processes
+2023/03/07 08:38:12 [notice] 18#18: start worker process 19
+2023/03/07 08:38:12 [notice] 18#18: start worker process 20
+2023/03/07 08:38:12 [notice] 18#18: start worker process 21
+2023/03/07 08:38:12 [notice] 18#18: start worker process 22
+2023/03/07 08:38:12 [notice] 18#18: start worker process 23
+2023/03/07 08:38:12 [notice] 18#18: start worker process 24
+2023/03/07 08:38:12 [notice] 18#18: start worker process 25
+2023/03/07 08:38:12 [notice] 18#18: start worker process 26
+2023/03/07 09:01:44 [emerg] 18#18: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:01:55 [emerg] 22#22: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:02:06 [emerg] 23#23: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:02:17 [emerg] 24#24: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:02:28 [emerg] 25#25: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:02:40 [emerg] 26#26: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:02:51 [emerg] 27#27: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:03:02 [emerg] 28#28: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:03:13 [emerg] 29#29: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:03:24 [emerg] 30#30: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:05:41 [emerg] 18#18: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:05:52 [emerg] 22#22: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:06:03 [emerg] 23#23: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:06:14 [emerg] 24#24: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:06:25 [emerg] 25#25: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:06:36 [emerg] 26#26: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:06:47 [emerg] 27#27: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:06:58 [emerg] 28#28: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:07:09 [emerg] 29#29: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:07:20 [emerg] 30#30: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:07:31 [emerg] 31#31: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:07:42 [emerg] 32#32: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:07:53 [emerg] 33#33: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:08:04 [emerg] 34#34: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:08:15 [emerg] 35#35: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:08:26 [emerg] 36#36: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:08:37 [emerg] 37#37: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:08:48 [emerg] 38#38: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:08:59 [emerg] 39#39: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:09:10 [emerg] 40#40: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:09:21 [emerg] 41#41: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:09:32 [emerg] 42#42: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:09:43 [emerg] 43#43: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:09:54 [emerg] 44#44: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:10:05 [emerg] 45#45: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:10:16 [emerg] 46#46: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:10:27 [emerg] 47#47: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:10:38 [emerg] 48#48: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:10:49 [emerg] 49#49: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:11:00 [emerg] 50#50: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:11:11 [emerg] 51#51: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:11:22 [emerg] 52#52: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:11:33 [emerg] 53#53: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:11:44 [emerg] 54#54: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:11:55 [emerg] 55#55: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:12:06 [emerg] 56#56: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:12:17 [emerg] 57#57: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:12:28 [emerg] 58#58: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:12:39 [emerg] 59#59: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:12:50 [emerg] 60#60: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:13:01 [emerg] 61#61: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:13:12 [emerg] 62#62: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:13:23 [emerg] 63#63: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:13:34 [emerg] 64#64: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:13:45 [emerg] 65#65: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:13:57 [emerg] 66#66: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:14:08 [emerg] 67#67: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:14:19 [emerg] 68#68: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:14:30 [emerg] 69#69: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:14:41 [emerg] 70#70: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:14:52 [emerg] 71#71: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:15:03 [emerg] 72#72: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:15:14 [emerg] 73#73: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:15:25 [emerg] 74#74: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:15:36 [emerg] 75#75: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:15:47 [emerg] 76#76: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:15:58 [emerg] 77#77: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:16:09 [emerg] 78#78: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:16:20 [emerg] 79#79: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:16:31 [emerg] 80#80: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:16:42 [emerg] 81#81: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:16:53 [emerg] 82#82: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:17:04 [emerg] 83#83: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:17:15 [emerg] 84#84: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:17:26 [emerg] 85#85: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:17:37 [emerg] 86#86: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:17:48 [emerg] 87#87: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:17:59 [emerg] 88#88: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:18:10 [emerg] 89#89: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:18:21 [emerg] 90#90: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:18:32 [emerg] 91#91: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:18:43 [emerg] 92#92: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:18:54 [emerg] 93#93: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:19:05 [emerg] 94#94: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:19:16 [emerg] 95#95: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:19:27 [emerg] 96#96: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:19:38 [emerg] 97#97: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:19:49 [emerg] 98#98: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:20:00 [emerg] 99#99: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:20:11 [emerg] 100#100: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:20:22 [emerg] 101#101: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:20:33 [emerg] 102#102: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:20:44 [emerg] 103#103: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:20:55 [emerg] 104#104: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:21:06 [emerg] 105#105: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:21:17 [emerg] 106#106: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:21:28 [emerg] 107#107: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:21:39 [emerg] 108#108: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:21:50 [emerg] 109#109: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:22:01 [emerg] 110#110: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:22:12 [emerg] 111#111: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:22:23 [emerg] 112#112: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:22:34 [emerg] 113#113: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:22:45 [emerg] 114#114: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:22:57 [emerg] 115#115: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:23:08 [emerg] 116#116: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:23:19 [emerg] 117#117: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:23:30 [emerg] 118#118: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:23:41 [emerg] 119#119: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:23:52 [emerg] 120#120: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:24:03 [emerg] 121#121: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:24:14 [emerg] 122#122: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:24:25 [emerg] 123#123: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:24:36 [emerg] 124#124: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:24:47 [emerg] 125#125: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:24:58 [emerg] 126#126: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:25:09 [emerg] 127#127: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:25:20 [emerg] 128#128: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:25:31 [emerg] 129#129: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:25:42 [emerg] 130#130: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:25:53 [emerg] 131#131: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:26:04 [emerg] 132#132: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:26:15 [emerg] 133#133: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:26:26 [emerg] 134#134: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:26:37 [emerg] 135#135: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:26:48 [emerg] 136#136: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:26:59 [emerg] 137#137: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:27:10 [emerg] 138#138: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:27:21 [emerg] 139#139: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:27:32 [emerg] 140#140: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:27:43 [emerg] 141#141: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:27:54 [emerg] 142#142: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:28:05 [emerg] 143#143: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:28:16 [emerg] 144#144: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:28:27 [emerg] 145#145: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:28:38 [emerg] 146#146: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:28:49 [emerg] 147#147: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:29:00 [emerg] 148#148: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:29:11 [emerg] 149#149: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:29:22 [emerg] 150#150: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:29:33 [emerg] 151#151: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:29:44 [emerg] 152#152: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:29:55 [emerg] 153#153: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:30:06 [emerg] 154#154: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:30:17 [emerg] 155#155: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:30:28 [emerg] 156#156: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:30:39 [emerg] 157#157: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:30:50 [emerg] 158#158: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:31:01 [emerg] 159#159: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
+2023/03/07 09:31:12 [emerg] 160#160: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:10
